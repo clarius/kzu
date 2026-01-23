@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A better way to implement the Singleton (anti?) pattern for easier testing using AmbientSingleton"
-date: 2021-01-27 00:00:00 +0000
+date: 2012-01-10 18:03:00 +0000
 tags: [ddd, ef, eventsourcing, extensibility, gadgets, mocking, moq, msbuild, mvc, nuget, patterns, programming, t4, technology, vsx, wcf, webapi]
 ---
 

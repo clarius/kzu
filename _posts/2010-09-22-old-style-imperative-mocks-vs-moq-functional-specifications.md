@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Old style imperative mocks vs moq functional specifications"
-date: 2020-08-08 00:00:00 +0000
+date: 2010-09-22 15:56:00 +0000
 tags: [ddd, ef, eventsourcing, extensibility, gadgets, mocking, moq, msbuild, mvc, nuget, patterns, programming, t4, technology, vsx, wcf, webapi]
 ---
 
