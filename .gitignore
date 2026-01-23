@@ -4,3 +4,5 @@
 *test-*.md
 .jekyll-metadata
 .vs
+/vendor
+/.bundle
