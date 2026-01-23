@@ -27,7 +27,7 @@ share-links-active:
 
 permalink:        /:title.html 
 url:              https://blogs.clarius.org
-baseurl:          "kzu"
+baseurl:          "/kzu"
 gtag:             G-5THB4CL7H1
 google-search-id: fab2fac2137f17958
 giscus:
